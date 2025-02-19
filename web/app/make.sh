@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#bash -e
 
 fatal() { echo "Fatal: $*" 1>&2; exit 1; }
 
